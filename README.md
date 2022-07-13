@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.github.com/YayoKB/fem-huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://www.yayokb.github.io/fem-huddle-landing-page)
+- Solution URL: [GitHub](https://www.github.com/YayoKB/fem-huddle-landing-page)
+- Live Site URL: [GitHub Pages](https://www.yayokb.github.io/fem-huddle-landing-page)
 
 ## My process
 
